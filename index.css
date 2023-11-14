@@ -43,8 +43,29 @@
 
 .banner-section {
     padding: 100px 0;
-    background: url(img/indtx/banner-bg.jpg);
+    background: url(indtx/banner-bg.jpg);
     background: cover;
     background-position: center;
 }
+
+.cards-section{
+    padding: 50px 0px;
+}
+
+.cards-title, .card-description {
+    color: #151c39
+    text-align: center;
+}
+
+.card {
+    padding: 25px;
+    margin-top: 25px;
+    width: 25%;
+    background: white;
+    box-shadow: 0px 2px 7px 0px #9e90ff;
+}
+
+
+
+
 
