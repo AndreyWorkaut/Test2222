@@ -1,0 +1,50 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+.container{
+    max-width: 1140px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+/* HEDER */
+
+.header{
+    width: 100%;
+    color: white;
+    padding: 20px;
+    background: #151c39;
+    box-sizing: border-box;
+}
+
+.menu-item{
+    list-style: none;
+}
+
+.menu-link{
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.banner-title, .banner-description {
+    text-align: center;
+    color: white;
+}
+
+.banner-title {
+    font-size: 48px;
+}
+
+.banner-section {
+    padding: 100px 0;
+    background: url(img/indtx/banner-bg.jpg);
+    background: cover;
+    background-position: center;
+}
+
